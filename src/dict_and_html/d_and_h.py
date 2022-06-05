@@ -2,7 +2,7 @@
 
 # import html_and_py to create HTML
 from html_and_py import *
-from modules.d_ht_convert_rows import convert_dict_rows_into_table_rows
+from .modules.d_ht_convert_rows import convert_dict_rows_into_table_rows
 
 
 # ###########################
