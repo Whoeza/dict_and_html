@@ -4,8 +4,7 @@
 # import d2ht_convert_rows submodule
 
 from html_and_py import *
-from d_ht_convert_rows import \
-    convert_dict_rows_into_table_rows
+from d_ht_convert_rows import convert_dict_rows_into_table_rows
 
 DOCTYPE = init_doctype("html")
 TABLE_STYLE = """table,
