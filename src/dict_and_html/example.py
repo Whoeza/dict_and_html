@@ -1,6 +1,7 @@
 # example.py
 
 # import dict_and_html to use dict_and_html()
+
 from dict_and_html import *
 
 output_directory = "./data/html/output/"
@@ -37,4 +38,4 @@ with open(output_directory + output_filename, 'w') as filename:
     for line in output_html_table.splitlines(keepends=True):
         filename.write(line)
 
-print("Wrote %s to disk." % output_directory + output_filename)
+print("Wrote %s to disk." % (output_directory + output_filename))
