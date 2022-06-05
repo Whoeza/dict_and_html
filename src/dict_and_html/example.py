@@ -1,7 +1,6 @@
 # example.py
 
 # import dict_and_html to use dict_and_html()
-
 from dict_and_html import *
 
 output_directory = "./data/html/output/"
