@@ -5,7 +5,7 @@
 # import strategies to extend behavior
 
 from html_and_py import *
-from .strategies import *
+from strategies import *
 
 
 # todo (2) Based on previous analysis (1), this is another independent module

@@ -4,7 +4,7 @@
 # import d2ht_convert_rows submodule
 
 from html_and_py import *
-from .d_ht_convert_rows import convert_dict_rows_into_table_rows
+from d_ht_convert_rows import convert_dict_rows_into_table_rows
 
 DOCTYPE = init_doctype("html")
 TABLE_STYLE = """table,
@@ -19,9 +19,9 @@ HTML_STYLE = create_html({
 
 
 # todo (4) This can become its own Python module.
-def dict_to_html(source_dictionary: dict,
-                 table_root_name: str = 'DICT 2 HTML Table',
-                 attribute_strategies: dict = None) -> str:
+def dict_and_html(source_dictionary: dict,
+                  table_root_name: str = 'DICT 2 HTML Table',
+                  attribute_strategies: dict = None) -> str:
     output = "" + DOCTYPE
 
     table_children = []
