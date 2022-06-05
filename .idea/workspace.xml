@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a9de0e1d-c77a-4129-8b6d-248f5aee6fcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dict_and_html/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/d_ht_convert_rows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/dict_and_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dict_and_html/dict_and_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/strategies/strategy_keys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/strategies/strategy_values.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +21,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2AAel2OfX6KXfqHoPzGPCBxYcYe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dict_and_html" />
@@ -66,5 +75,16 @@
       <updated>1654456964196</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
