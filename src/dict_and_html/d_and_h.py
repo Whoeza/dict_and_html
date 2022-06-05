@@ -1,4 +1,4 @@
-# dict_and_html.py
+# d_and_h.py
 
 # import html_and_py to create HTML
 from html_and_py import *
@@ -93,7 +93,7 @@ HTML_STYLE = create_html({
 # # a Python dict as <tr> rows of an HTML <table>, eventually with nested
 # # <table>'s As it turns out, this is a headless <table>, meaning that there
 # # is a wrapper <table> (with <thead> and <tbody>), written before this
-# # module. Currently, dict_and_html.py calls
+# # module. Currently, d_and_h.py calls
 # # convert_dict_rows_into_table_rows and saves its output in a <tbody> element.
 # # Other projects can benefit from this package by specifying custom
 # # strategies of conversion of keys and values. For example, adding id's and

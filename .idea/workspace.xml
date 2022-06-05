@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9de0e1d-c77a-4129-8b6d-248f5aee6fcb" name="Changes" comment="" />
+    <list default="true" id="a9de0e1d-c77a-4129-8b6d-248f5aee6fcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dict_and_html/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/dict_and_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dict_and_html/d_and_h.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dict_and_html/modules/d_ht_convert_rows.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dict_and_html/modules/d_ht_convert_rows.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +48,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.example">
-    <configuration name="dict_and_html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="d_and_h" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dict_and_html" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dict_and_html/dict_and_html.py" />
+      <option name="SCRIPT_NAME" value="D:\githubbo\dict_and_html\src\dict_and_html\d_and_h.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +93,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.example" />
-        <item itemvalue="Python.dict_and_html" />
+        <item itemvalue="Python.d_and_h" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-from dict_and_html.dict_and_html import (
+from dict_and_html.d_and_h import (
     DOCTYPE,
     HTML_STYLE,
     TABLE_STYLE,
