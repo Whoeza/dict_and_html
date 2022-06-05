@@ -20,7 +20,7 @@ HTML_STYLE = create_html({
 
 # todo (4) This can become its own Python module.
 def dict_and_html(source_dictionary: dict,
-                  table_root_name: str = 'DICT 2 HTML Table',
+                  table_root_name: str = 'Dict And Html Table',
                   attribute_strategies: dict = None) -> str:
     output = "" + DOCTYPE
 

@@ -15,11 +15,22 @@ Python
 
 `py -m pip uninstall dict_and_html`
 
+### Build from sources
+
+Run this command from the folder containing the sources:
+
+`py -m build`
+
+## Playing around
+
+Check and edit `example.py` for an example of how to convert dictionaries into 
+HTML tables in Python with `dict_and_html`.
+
 ## Community
 
-Open a new issue for support
-[here](https://github.com/Whoeza/dict_and_html/issues)
+[Open a new issue](https://github.com/Whoeza/dict_and_html/issues) for
+support.
 
 ### Special thanks to
 
-- namedots - For the great help with Python imports
+- **namedots** - For the great help with Python imports

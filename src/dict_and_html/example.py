@@ -34,7 +34,7 @@ output_html_table: str = dict_and_html(example_input_dictionary)
 output_filename = "example.htm"
 
 with open(output_directory + output_filename, 'w') as filename:
-    for line in output_html_table.splitlines():
+    for line in output_html_table.splitlines(keepends=True):
         filename.write(line)
 
 print("Wrote %s to disk." % output_directory + output_filename)
