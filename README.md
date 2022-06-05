@@ -3,21 +3,26 @@
 A lightweight solution to converting Python dictionaries into HTML tables, in
 Python
 
-### Installing
+Open source available on [GitHub](https://github.com/Whoeza/dict_and_html) and 
+[PyPI](https://pypi.org/project/dict_and_html/).
+
+## Installation
+
+Install from pip:
 
 `py -m pip install dict_and_html`
 
-### Updating
+Update to the latest version from pip:
 
 `py -m pip install --upgrade dict_and_html`
 
-### Uninstalling
+Uninstall from pip:
 
 `py -m pip uninstall dict_and_html`
 
-### Build from sources
+### Building from sources
 
-Run this command from the folder containing the sources:
+Run this command from the package directory on your filesystem:
 
 `py -m build`
 
